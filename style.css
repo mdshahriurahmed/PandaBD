@@ -1,0 +1,20 @@
+.info-background {
+    background-color: #fceae8 !important;
+}
+
+.price-color {
+    color: #ff136f;
+}
+
+.btn-style {
+    background-image: linear-gradient(#fc4f94, #f31268);
+    border: none;
+    padding: 8px 25px;
+    border-radius: 8px;
+    color: white;
+}
+
+.categories img {
+    width: 100px;
+    height: auto;
+}
